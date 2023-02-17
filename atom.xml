@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://limerzzz.github.io/</id>
+    <title>Limer 写字的地方</title>
+    <updated>2023-02-17T02:57:58.712Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://limerzzz.github.io/"/>
+    <link rel="self" href="https://limerzzz.github.io/atom.xml"/>
+    <subtitle>个人成长,个人感悟,技术</subtitle>
+    <logo>https://limerzzz.github.io/images/avatar.png</logo>
+    <icon>https://limerzzz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Limer 写字的地方</rights>
+</feed>
